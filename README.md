@@ -1,2 +1,1 @@
-# B-tech-Project
-Pulse Shape Discrimination
+# Pulse Shape Discrimination
